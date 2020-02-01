@@ -12,8 +12,8 @@ This paper proposes stochastic division and square root function, which performs
 
 [Download paper here](https://diwu1990.github.io/files/dac2019_paper.pdf)
 
-[Download bibtex here](https://diwu1990.github.io/files/dac2019_paper.bib)
-
 [Download slide here](https://diwu1990.github.io/files/dac2019_slide.pdf)
 
 [Download poster here](https://diwu1990.github.io/files/dac2019_poster.pdf)
+
+[Download bibtex here](https://diwu1990.github.io/files/dac2019_paper.bib)
