@@ -3,7 +3,7 @@ title: "A High-Throughput LDPC decoder For Optical Communication"
 collection: publications
 permalink: /publication/2013-10-28-A High-Throughput LDPC decoder For Optical Communication
 excerpt:
-date: 2013-10-28
+date: 2013
 venue: 'ASICON'
 paperurl:
 citation:
