@@ -2,14 +2,14 @@
 title: "A High-Throughput LDPC decoder For Optical Communication"
 collection: publications
 permalink: /publication/2013-10-28-A High-Throughput LDPC decoder For Optical Communication
-excerpt: 'This paper is.'
+excerpt: 'This paper is about the implementation of LDPC decoding based on dual clock edges, which doubles the throughput.'
 date: 2013-10-28
-venue: 'Journal 1'
+venue: 'ASICON 2013'
 paperurl: 'https://diwu1990.github.io/files/asicon2013_paper.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Di Wu, Yun Chen, Yuebin Huang, Yeongluh Ueng, Lirong Zheng and Xiaoyang Zeng, "A high-throughput LDPC decoder for optical communication," 2013 IEEE 10th International Conference on ASIC, Shenzhen, 2013, pp. 1-4.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the implementation of LDPC decoding based on dual clock edges, which doubles the throughput.
 
 [Download paper here](https://diwu1990.github.io/files/asicon2013_paper.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Di Wu, Yun Chen, Yuebin Huang, Yeongluh Ueng, Lirong Zheng and Xiaoyang Zeng, "A high-throughput LDPC decoder for optical communication," 2013 IEEE 10th International Conference on ASIC, Shenzhen, 2013, pp. 1-4.
