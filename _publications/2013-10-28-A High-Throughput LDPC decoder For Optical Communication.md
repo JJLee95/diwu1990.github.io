@@ -8,8 +8,7 @@ venue: 'ASICON'
 paperurl:
 citation:
 ---
-This paper is about the implementation of LDPC decoding based on dual clock edges, which doubles the throughput.
+This paper implements LDPC decoding based on dual clock edges, which doubles the throughput.
 
 [Download paper here](https://diwu1990.github.io/files/asicon2013_paper.pdf)
-
-Recommended citation: Di Wu, Yun Chen, Yuebin Huang, Yeongluh Ueng, Lirong Zheng and Xiaoyang Zeng, "A high-throughput LDPC decoder for optical communication," 2013 IEEE 10th International Conference on ASIC, Shenzhen, 2013, pp. 1-4.
+[Download bibtex here](https://diwu1990.github.io/files/asicon2013_paper.bib)
