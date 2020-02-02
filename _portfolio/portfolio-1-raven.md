@@ -1,6 +1,6 @@
 ---
 title: "RAVEN"
-excerpt: "RAVEN stands for a Reconfigurable Architecture for Varying Emerging Neural Networks. It is designed to be compatible for more complicated neural networks in the future, propelled by approximate computing and network theory."
+excerpt: "RAVEN stands for a Reconfigurable Architecture for Varying Emerging Neural Networks. It is designed to be compatible for more complicated neural networks in the future, propelled by approximate computing and network theory. \\<br/><img src='/images/raven_system_diagram.png'>"
 collection: portfolio
 ---
 
