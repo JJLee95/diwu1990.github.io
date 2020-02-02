@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcom to Di Wu's homepage"
+title                    : "Di Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Di Wu"
 description              : &description "personal description"
