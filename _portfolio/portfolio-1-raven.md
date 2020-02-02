@@ -8,7 +8,7 @@ RAVEN stands for a Reconfigurable Architecture for Varying Emerging Neural Netwo
 
 <br/><img src='/images/raven_system_diagram.png'>
 
-RAVEN was originally on the [final list of Qualcomm Innovation Fellowship in 2019](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/finalists). Currently, RAVEN is still in progress, and there are some related publications as listed below. Feel free to contact me if you are interested.
+RAVEN was among [the finalists of Qualcomm Innovation Fellowship in 2019](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/finalists). Currently, RAVEN is still in progress, and there are some related publications as listed below. Feel free to contact me if you are interested.
 
 __Related publications:__
 
