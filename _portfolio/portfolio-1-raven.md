@@ -12,4 +12,4 @@ RAVEN was originally on the [final list of Qualcomm Innovation Fellowship in 201
 
 __Related publications:__
 
-1. SECO: A Scalable Accuracy Approximate Exponential Function Via Cross-Layer Optimization. [[link](https://diwu1990.github.io/publication/2019-07-29-islped)]
+1. "SECO: A Scalable Accuracy Approximate Exponential Function Via Cross-Layer Optimization", in ISLPED, 2019. [[link](https://diwu1990.github.io/publication/2019-07-29-islped)]
