@@ -8,10 +8,6 @@ date: 2019-01-01
 location: "Madison, WI, USA"
 ---
 
-Course: 
-======
-Digital Engineering Laboratory
+__Course:__ Digital Engineering Laboratory
 
-Instructor:
-======
-Professor Mikko Lipasti
+__Instructor:__ Professor Mikko Lipasti
