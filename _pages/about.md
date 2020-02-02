@@ -14,7 +14,7 @@ I am a PhD student from Department of Eletrical & Computer Engineering in Univer
 
 Research
 ------
-My research interest covers emerging computing paradigm, low power computer architecture and deep learning system, etc. 
+My research interest covers emerging computing paradigm, computer architecture and system design. If you are interested in those topics and looking for potential collaboration, don't hesitate to contact me.
 
 CV
 ------
