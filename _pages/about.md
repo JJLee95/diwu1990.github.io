@@ -10,7 +10,7 @@ redirect_from:
 
 Profile
 ------
-I am a PhD student from Department of Eletrical & Computer Engineering in University of Wisconsin-Madison since 2017. I am currently working with professor [Joshua San Miguel](http://jsm.ece.wisc.edu/) on __*high performance computer architecture*__ for emerging applications. I received my bachelor degree in Microelectronics in 2012 and master degree in Integrated Circuits Engineering in 2015 from Fudan University, located in Shanghai, China. After graduation, I had been working for 2 years in Hisilicon in Shanghai before starting PhD study.
+I am a PhD student from Department of Eletrical & Computer Engineering in University of Wisconsin-Madison since 2017. I am currently working with professor [Joshua San Miguel](http://jsm.ece.wisc.edu/) on __*high performance computer architecture*__ for emerging applications. I received my bachelor degree in Microelectronics in 2012 and master degree in Integrated Circuits Engineering in 2015 from Fudan University, located in Shanghai, China. After graduation, I had been working for 2 years in Hisilicon in Shanghai before PhD study.
 
 Research
 ------
