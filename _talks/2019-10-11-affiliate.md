@@ -1,11 +1,11 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Unary Computing for General Matrix Multiplication"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+type: "Architecture affiliate meeting talk"
+permalink: /talks/2019-10-11-affiliate
+venue: "Pyle Center"
+date: 2019-10-11
+location: "Madison WI, USA"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Present uGEMM architecture, a high performance uanry computing architecture to unify the temporal- and rate-coded bit streams.
